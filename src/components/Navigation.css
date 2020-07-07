@@ -1,0 +1,30 @@
+.nav{  
+    margin-top: 50px;
+    position: fixed;
+    left: 40px;
+    width: 100px;
+    height: 100%;
+    
+}
+
+.nav .x{
+    border: solid 1px gray;
+    width: 80px;
+    background-color: white;
+    display: flex;
+    font-size: 25px;
+    color: blue;
+    padding: 5px;
+    margin: 10px;
+    box-shadow: inset 0 1px 1px 0 hsla(0,0%,100%,.1), 0 50px 100px -20px rgba(50,50,93,.25), 0 30px 60px -30px rgba(0,0,0,.3);
+}
+.nav .y{
+    border: solid 1px gray;
+    background-color: white;
+    width: 80px;
+    font-size: 25px;
+    color: blue;
+    padding: 5px;
+    margin: 10px;
+    box-shadow: inset 0 1px 1px 0 hsla(0,0%,100%,.1), 0 50px 100px -20px rgba(50,50,93,.25), 0 30px 60px -30px rgba(0,0,0,.3);
+}
