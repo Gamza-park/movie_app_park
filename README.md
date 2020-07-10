@@ -1,3 +1,3 @@
 # Movie App Park
 
-React Js Fundamentals Course!
+React Js!
